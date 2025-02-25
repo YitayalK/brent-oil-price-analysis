@@ -7,3 +7,5 @@ gdown
 ipython
 statsmodels
 ARCH
+scikit-learn
+tensorflow
